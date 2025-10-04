@@ -74,3 +74,14 @@ If output probability > threshold (commonly 0.5), it predicts class 1; otherwise
 * **Marketing:** Customer churn prediction, conversion modeling.
 * **Cybersecurity:** Spam and phishing email detection.
 * **Operations:** Predict equipment failure or defect occurrence.
+
+
+Core Function: Probability-based classification for binary outcomes
+
+Data Type: Structured, labeled, linearly separable data
+
+Key Strengths: Interpretability, efficiency, reliability
+
+Ideal For: Baseline classifiers and transparent business decision models
+
+Not Ideal For: Complex nonlinear relationships without feature engineering
