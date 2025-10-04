@@ -1,0 +1,4 @@
+Goal: Predict customer churn probability for telecom or subscription services.
+Data: Customer demographics, service usage, billing history.
+Why Logistic Regression: High interpretability helps business teams understand churn factors (e.g., monthly charges, contract type).
+Advantage: Provides actionable insights with confidence levels for proactive retention strategies.
