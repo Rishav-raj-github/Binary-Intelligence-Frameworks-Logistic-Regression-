@@ -6,7 +6,8 @@ A supervised machine learning algorithm used primarily for classification proble
 
 **Logistic Regression** is a **supervised machine learning algorithm** used primarily for **classification problems**, especially **binary classification** (where output has two possible outcomes, such as Yes/No, 0/1, Spam/Not Spam).
 
-Despite its name, it’s actually a **classification model**, not a regression model. It estimates the **probability** that a data point belongs to a particular class using a **sigmoid (logistic) function**, which converts linear combinations of input features into a probability score between 0 and 1.
+Despite its name, it’s actually a **classification model**, not a regression model. 
+It estimates the **probability** that a data point belongs to a particular class using a **sigmoid (logistic) function**, which converts linear combinations of input features into a probability score between 0 and 1.
 
 **Mathematical Representation:**
 
